@@ -43,7 +43,7 @@ export const projects: Project[] = [
     ],
     image: "/images/projects/binge-learning/binge-learning.png",
     github: "https://github.com/harsh050110/Binge-Learning.git",
-    liveUrl: "https://bingelearning.in",
+    liveUrl: "https://binge-learning-app.vercel.app",
     featured: true
   },
   {
@@ -111,5 +111,21 @@ export const projects: Project[] = [
     image: "/images/projects/noteit/noteit.jpg",
     github: "https://github.com/harsh050110/Nue-notes.git",
     featured: false
+  },
+    {
+    id: "Beneicon",
+    title: "Beneicon",
+    description: "A Website that handles the LED Display Selling and Sharing the Experience about their sells.",
+    longDescription: "Led the development of the Binge Watch website, attracting 20,000 students with 6,000 registrations across 10 events, optimizing for crowd loading. Integrated payment gateway for Cultural and Technical events.",
+    technologies: ["React.js", "TailwindCSS", "Node.js", "Express", "MongoDB", "Razorpay", "Redux", "Framer Motion"],
+    achievements: [
+      "Attracted 20,000 students with 6,000 registrations across 10 events",
+      "Emphasized crowd loading optimization for seamless user experience",
+      "Integrated payment gateway for Cultural and Technical events"
+    ],
+    image: "/images/projects/Beneicon/beneicon.png",
+    github: "https://github.com/harsh050110/benecion.git",
+    liveUrl: "https://benecion.vercel.app",
+    featured: true
   }
 ];
