@@ -34,7 +34,7 @@ export default function AboutPage() {
             <h2 className="text-2xl font-bold mb-4">Who I Am</h2>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                I&apos;m Harsh Kumar, a passionate Frontend Developer and aspiring Full-Stack Engineer, currently pursuing B.Tech in Computer Science Engineering. I enjoy building clean, responsive, and user-friendly web applications while continuously improving my problem-solving skills.
+                I&apos;m Harsh Kumar, a passionate Frontend Developer and aspiring Frontend Developer, currently pursuing B.Tech in Computer Science Engineering. I enjoy building clean, responsive, and user-friendly web applications while continuously improving my problem-solving skills.
               </p>
               <p>
                 I primarily work with React.js, JavaScript, HTML, CSS, and Tailwind CSS, and I’m expanding into backend development and API integration to build complete, scalable web solutions. My interest in UI/UX design helps me focus not just on functionality, but also on creating smooth and engaging user experiences.

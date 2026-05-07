@@ -11,7 +11,7 @@ import { socialLinks } from "@/data/social";
 export function Hero() {
   const [currentSkillIndex, setCurrentSkillIndex] = useState(0);
   const displayedSkills = [
-    "Full Stack Developer",
+    "Frontend Developer",
     "Web3 Enthusiast",
     "Machine Learning Practitioner",
     "UI/UX Designer"
