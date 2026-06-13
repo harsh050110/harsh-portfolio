@@ -127,5 +127,21 @@ export const projects: Project[] = [
     github: "https://github.com/harsh050110/benecion.git",
     liveUrl: "https://benecion.vercel.app",
     featured: true
-  }
+  },
+  {
+  id: "brainixt",
+  title: "Brainixt",
+  description: "A modern dev studio and agency website showcasing services, portfolio, and client onboarding.",
+  longDescription: "Spearheaded the strategy and development of Brainixt, a full-service dev studio website designed to attract startups and businesses seeking digital solutions. Built with a focus on conversion-optimized landing pages, seamless client onboarding flows, and a dynamic portfolio showcase — driving consistent user signups and engagement from day one.",
+  technologies: ["React.js", "TailwindCSS", "Node.js", "Express", "MongoDB", "Framer Motion", "Redux"],
+  achievements: [
+    "Drove consistent user signups through conversion-optimized landing and service pages",
+    "Designed and led the overall product strategy as core strategy developer",
+    "Built a dynamic portfolio and client onboarding flow to streamline project acquisition"
+  ],
+  image: "/images/projects/Brainixt/Brainixt.png",
+  github: "https://github.com/harsh050110/brainixt.git",
+  liveUrl: "https://brainixt.vercel.app",
+  featured: true
+}
 ];
