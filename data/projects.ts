@@ -141,7 +141,7 @@ export const projects: Project[] = [
   ],
   image: "/images/projects/Brainixt/Brainixt.png",
   github: "https://github.com/harsh050110/brainixt.git",
-  liveUrl: "https://brainixt.vercel.app",
+  liveUrl: "https://brainixt.com",
   featured: true
 }
 ];
